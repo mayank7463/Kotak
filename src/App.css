@@ -1,0 +1,77 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+ 
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app{
+  max-width: 1280px;
+  margin: auto;
+}
+.wrapper-component-main{
+  text-align: left;
+  padding: 0 4%;
+  font-size: 20px;
+  color: rgb(67, 64, 64);
+}
+.red-big-text{
+color: rgb(237 28 37);
+font-size: 26px;
+font-weight: 500;
+
+}
+.message-component-wrapper{
+  background: rgb(220 235 249);
+  padding: 5%;
+  border-radius: 20px;
+ border-top-right-radius: 0px;
+ border-bottom-right-radius: 0px;
+ color: rgb(37, 92, 160);
+}
+.blue-heading-big{
+  font-size: 40px;
+  font-weight: 300;
+  color: rgb(16 57 117);
+}
+.heading-bold-lg{
+  font-size: 35px;
+  font-weight: 700;
+  color: rgb(16 57 117);
+}
+.big-red-heading{
+  font-size: 40px;
+  color: rgb(237 28 37);
+}
+.bold-black-text-lg{
+  font-size: 22px;
+  font-weight: 500;
+}
+.red-bold-heading{
+  color: rgb(237 28 37);
+  font-size: 24px;
+  font-weight: 700;
+}
+.heading-blue-bold-text{
+  font-weight: 700;
+  color: rgb(16 57 116);
+  font-size: 24px;
+  border-bottom: 1px solid rgb(37, 36, 36);
+}
+.text-normal{
+  font-size: 18px;
+}
+.orange-heading-text{
+  color: rgb(240 90 33);
+  font-size: 24px;
+}
+.data-type01{
+ font-size: 40px;
+ font-weight: 800;
+ color: rgb(16 57 117);
+}
